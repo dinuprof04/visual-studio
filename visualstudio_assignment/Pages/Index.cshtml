@@ -1,0 +1,43 @@
+﻿@page
+@{
+    Layout = null;
+}
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Music Video Demo</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header class="site-header">
+        <h1>Random Video track</h1>
+        <p>Embedded YouTube video with a JS animation.</p>
+    </header>
+
+    <main>
+        <div class="video-wrap">
+            <iframe class="video"
+                    width="560"
+                    height="315"
+                    src="https://www.youtube.com/embed/M7lc1UVf-VE?rel=0"
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen>
+            </iframe>
+        </div>
+
+        <section class="animation-section">
+            <div id="ball" aria-hidden="true"></div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <small>ASP.NET Core: HTML + CSS + JavaScript</small>
+    </footer>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>
