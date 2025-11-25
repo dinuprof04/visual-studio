@@ -1,0 +1,15 @@
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\bin\Debug\net8.0\PackageExpress.exe
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\bin\Debug\net8.0\PackageExpress.deps.json
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\bin\Debug\net8.0\PackageExpress.runtimeconfig.json
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\bin\Debug\net8.0\PackageExpress.dll
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\bin\Debug\net8.0\PackageExpress.pdb
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\obj\Debug\net8.0\PackageExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\obj\Debug\net8.0\PackageExpress.AssemblyInfoInputs.cache
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\obj\Debug\net8.0\PackageExpress.AssemblyInfo.cs
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\obj\Debug\net8.0\PackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\obj\Debug\net8.0\PackageExpress.sourcelink.json
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\obj\Debug\net8.0\PackageExpress.dll
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\obj\Debug\net8.0\refint\PackageExpress.dll
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\obj\Debug\net8.0\PackageExpress.pdb
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\obj\Debug\net8.0\PackageExpress.genruntimeconfig.cache
+C:\Users\dines\OneDrive\Documents\GitHub\visual-studio\PackageExpress\obj\Debug\net8.0\ref\PackageExpress.dll
